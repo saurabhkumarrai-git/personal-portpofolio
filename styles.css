@@ -254,6 +254,7 @@ nav ul li a:hover {
 .icons {
     margin-left: 530px;
     width: fit-content;
+    padding: 5% 0;
 }
 
 .icons img {
@@ -264,7 +265,7 @@ nav ul li a:hover {
 }
 
 .icons img:hover {
-    transform: scale(1.5);
+    transform: scale(1.2);
     transition: .3s;
 }
 
