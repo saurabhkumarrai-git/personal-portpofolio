@@ -22,10 +22,10 @@
     letter-spacing: 1px;
 }
 
-.hero {
+.Profile {
     height: 100vh;
     width: 100%;
-    background-image: url(bgimg.png);
+    background-image: url(Img/bgimg.png);
     background-size: cover;
     background-position: center;
 }
@@ -217,7 +217,7 @@ nav ul li a:hover {
     padding-top: 50px;
 }
 
-.title1 h2{
+.Project_title h2{
     color: white;
     font-size: 75px;
     width: 1130px;
@@ -417,7 +417,7 @@ nav ul li a:hover {
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    background-image: url(bgsome.png);
+    background-image: url(Img/bgsome.png);
 }
 
 .skills p {
@@ -647,7 +647,7 @@ footer {
     display: flex;
     flex-direction: row;
     align-items: center;
-    background-image: url(footbg1.png);
+    background-image: url(Img/footbg1.png);
     background-size: cover;
     background-position: center;
 }
